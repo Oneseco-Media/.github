@@ -1,12 +1,20 @@
 ## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Oneseco Media Readme v1:**
+
+🙋‍♀️ A short introduction - Digital media consulting, App Development, Virtual Assistants
+
+🌈 Contribution guidelines - We are new so follow and engage with us, participate in 
+discussions and complete bounties to help us build.
+
+👩‍💻 Useful resources - Coming Soon
+
+🍿 Fun facts - "Oneseco" is slang that originated in Houston, Texas. It means "One second." Houston's tendency to add an "O" to knicknames is reflected here. It's the one thing that the company brand and Lizzo have in common.
+
+🧙 Remember, you can do mighty things with the power of [Markdown]
+
+[Getting Started with Github]([url](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
+
+[Twitter Lists]([url](https://twitter.com/i/lists/1588855789787267072?s=20)https://twitter.com/i/lists/1588855789787267072?s=20)
