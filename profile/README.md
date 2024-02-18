@@ -1,20 +1,20 @@
-## Hi there 👋
+# Welcome to Oneseco Media! 🌐
 
+**Oneseco Media**: An AI Automation and App Development Agency dedicated to empowering underserved communities and small businesses.
 
+## 🙋‍♀️ About Us
 
-**Oneseco Media Readme v1:**
+Oneseco Media leverages AI automation and innovative app development to provide underserved communities and small businesses with the digital tools they need to thrive. Our mission is to democratize technology, ensuring that cutting-edge solutions are accessible to all, fostering growth, efficiency, and deeper connections. Discover our mission and projects at [Oneseco.com](https://oneseco.com).
 
-🙋‍♀️ A short introduction - Digital media consulting, App Development, Virtual Assistants
+## 👀 Contribution Guidelines
 
-🌈 Contribution guidelines - We are new so follow and engage with us, participate in 
-discussions and complete bounties to help us build.
+Your expertise and enthusiasm can help us drive positive change. Whether you’re a software developer, AI expert, designer, or someone who understands the challenges faced by underserved communities and small businesses, we welcome your contributions. Here's how you can get involved:
+- Fork the repository of the project you're interested in.
+- Make impactful changes and commit them to your fork.
+- Submit a pull request detailing the improvements you've made.
 
-👩‍💻 Useful resources - Coming Soon
+## 👩‍💻 Useful Resources
 
-🍿 Fun facts - "Oneseco" is slang that originated in Houston, Texas. It means "One second." Houston's tendency to add an "O" to knicknames is reflected here. It's the one thing that the company brand and Lizzo have in common.
-
-🧙 Remember, you can do mighty things with the power of [Markdown]
-
-[Getting Started with Github]([url](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
-
+- **Documentation**: Our project documentation, including coding standards and setup guides, can be found in the [Docs](#) section. It's your go-to resource for getting started with our projects.
+- **Community Support**: Have questions or need assistance? Join our community forum or Discord server to connect with fellow contributors and our team.
 [Twitter Lists]([url](https://twitter.com/i/lists/1588855789787267072?s=20)https://twitter.com/i/lists/1588855789787267072?s=20)
